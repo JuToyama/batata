@@ -1,1 +1,1 @@
-print("JuToyama")
+print("GUI")
